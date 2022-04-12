@@ -20,6 +20,7 @@ public class NewCustomer {
 	private By  emailid= By.name("emailid");
 	private By submitbtn= By.name("sub");
 	private By reset= By.name("res");
+	private By home = By.xpath("------");
 	
 	
 	
