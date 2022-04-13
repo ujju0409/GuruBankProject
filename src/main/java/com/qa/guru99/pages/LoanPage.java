@@ -11,4 +11,7 @@ public class LoanPage {
 	}
 	
 	
+	public void calloan() {
+		System.out.println("my loan ");
+	}
 }
